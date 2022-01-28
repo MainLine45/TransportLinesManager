@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug since airport DLC came out
+about: The Transport Lines Manager error when clicking route
 title: "[BUG]"
 labels: new bug
 assignees: ''
@@ -8,13 +8,13 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+When clicking  on a route it will tell you that the route is incomplete when it isnt and no longer shows the route map as result on the right hand side. Alot of the boxes are all over the place now on the same menu
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+1. Go to 'transport lines manager'
+2. Click on 'any line using the magnifying glass'
+3. Click on 'the first tab at the top'
 4. See error
 
 **Game Logs**
@@ -22,7 +22,8 @@ See the "Report-a-bug Helper" button at mod options menu to get instructions abo
 **IMPORTANT**: Get this file right after having the issue and before reopening the game!
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem. You can copy (or use the printscreen key while in game) them paste here to get the image automatically uploaded.
+![image](https://user-images.githubusercontent.com/97462095/151536238-6f9cebe9-4d43-482d-870a-67c61386b2e6.png)
+
 
 **Additional context**
-Add any other context about the problem here.
+Its happened since airport DLC came out and the update to go along with it.
